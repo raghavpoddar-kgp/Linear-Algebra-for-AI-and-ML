@@ -1,1 +1,1 @@
-# Linear-Algebra-for-AI-and-ML
+Files for course Linear Algebra for AI and ML
